@@ -11,3 +11,4 @@ Pages 98-107,
 ISSN 0168-9002,
 https://doi.org/10.1016/j.nima.2018.12.069.
 
+At execution a file with layer sequences should be provided as a command line argument. The file dummydata.dat contains sample input.
